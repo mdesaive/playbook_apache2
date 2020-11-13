@@ -1,0 +1,12 @@
+[submodule "inventory_apache2"]
+	path = inventory_apache2
+	url = git@github.com:mdesaive/inventory_apache2.git
+[submodule "inventory"]
+	path = inventory
+	url = git@github.com:mdesaive/inventory_apache2.git
+[submodule "roles/role_mod_repositories"]
+	path = roles/role_mod_repositories
+	url = git@github.com:mdesaive/role_mod_repositories.git
+[submodule "role/role_app_apache2"]
+	path = role/role_app_apache2
+	url = git@github.com:mdesaive/role_app_apache2.git
