@@ -10,3 +10,6 @@
 [submodule "role/role_app_apache2"]
 	path = role/role_app_apache2
 	url = git@github.com:mdesaive/role_app_apache2.git
+[submodule "roles/role_app_apache2"]
+	path = roles/role_app_apache2
+	url = git@github.com:mdesaive/role_app_apache2.git
